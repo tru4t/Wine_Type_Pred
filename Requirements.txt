@@ -1,2 +1,0 @@
-Requirements:
-Pandas, Numpy, Streamlit and scikit-learn
