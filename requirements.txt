@@ -1,2 +1,5 @@
-Requirements:
-Pandas, Numpy, Streamlit and scikit-learn
+Pandas
+Numpy
+Streamlit
+scikit-learn
+joblib
